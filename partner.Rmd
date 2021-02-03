@@ -1,0 +1,27 @@
+---
+title: "Partner"
+author: "Anders Lie"
+date: "2/3/2021"
+output: html_document
+---
+
+## Name
+Anders Lie
+
+## GitHub Username
+anerli
+
+## Most Recent Commit
+The commit was called homework1. It added the files hw1.Rmd and hw1.html
+
+The commit ID is 3b988bbc2e7ebedf06aff70bc28e9d622c665b2b
+
+## Knitting hw1.Rmd
+I was unable to knit hw1.Rmd in this repo because the file pg_mlnxtdcd_072616.png was not included in the repo.
+
+So next time we should make sure that all files used by the R markdown files are included in the repo.
+
+## Errors / Difficulty
+Murat had an issue at first pushing his code to his git repository where he got some kind of weird error message,
+but all he had to do was enter his username and password and it was fine.
+
